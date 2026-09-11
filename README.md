@@ -1,1 +1,1 @@
-# Kaggle and The Pokémon Company - PTCG AI Battle Challenge Simulation
+# Pokemon TCG Battle Sandbox
